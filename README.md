@@ -25,5 +25,5 @@ python3.5 player.py
 
 I have used **https://azlyrics.com** to scrape lyrics. If you are facing issues with lyrics, try searching for proper artist name.
 
-eg:  https://azlyrics.com/lyrics/thebeatles won't work, 
-	 https://azlyrics.com/lyrics/beatles will work.
+eg:  https://azlyrics.com/lyrics/thebeatles/songname.html won't work, 
+	 https://azlyrics.com/lyrics/beatles/songname.html will work.
