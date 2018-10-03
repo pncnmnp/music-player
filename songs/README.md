@@ -1,1 +1,1 @@
-** This directory is where you can put all your songs **
+**This directory is where you can put all your songs**
