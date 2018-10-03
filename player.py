@@ -5,7 +5,6 @@ import vlc
 import time
 import select
 import requests
-import re
 from bs4 import BeautifulSoup
 
 class Player:
@@ -140,7 +139,7 @@ class Player:
 			now.stop()
 
 if __name__ == '__main__':
-	address = '/home/parthparikh/parth/music/'
+	address = './songs/'
 	obj = Player(address)
 	obj.scanDirectory()
 	obj.shuffle()
